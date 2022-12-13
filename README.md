@@ -27,7 +27,7 @@ We determined to use the 'IS_SUCCESSFUL' column as our target and was later drop
 
 In our original iteration of the model we used the following:
 
-<img src="<link>" width="300">
+<img src="https://github.com/nguyenauloi/Neural_Network_Charity_Analysis/blob/main/resources/imgs/original_model.PNG" width="400">
 
 Through this model we were only able to achieve an accuracy of 68.7%
 Subsequent training of this model were only able to achieve an accuracy score of 73%, just shy of the 75% goal. The additional training iterations included the following:
